@@ -11,7 +11,7 @@ $ git clone <url>
 ```
 * CD into the directory.
 * Copy all of the HTML files you need to merge into the directory.
-* Run the following command
+* Run the following command :
 ```bash
 $ node parser.js filename1.html filename2.html
 ```
